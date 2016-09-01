@@ -1,0 +1,19 @@
+Linux OS:
+Debian https://www.debian.org/
+Ubuntu https://www.ubuntu-tw.org/modules/tinyd0/
+
+linux教學:
+鳥哥
+http://linux.vbird.org/
+神人
+https://blog.longwin.com.tw/
+
+apt教學:
+https://blog.longwin.com.tw/2005/05/use_apt/
+
+開發環境
+lnmp
+linux + nginx + mysql + php-fpm
+
+git教學
+http://backlogtool.com/git-guide/tw/

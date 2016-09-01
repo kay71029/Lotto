@@ -1,0 +1,5 @@
+vmware-user
+sudo apt-get install git php5 mysql-server mysql-client git 
+sudo apt-get install nginx
+sudo apt-get install memcached gearman-server gearman-tools gearman-job-server redis-server redis-tools curl chromiumc
+kay@kay:~/vmware-tools-distrib$ sudo apt-get install memcached gearman-server gearman-tools gearman-job-server redis-server redis-tools curl
